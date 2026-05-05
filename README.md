@@ -1,4 +1,4 @@
-# 🏗️ Advanced Data Modeling & Relationship Management
+# 🏗️ Advanced Data Modelling & Relationship Management
 
 ## 📌 Overview
 This project focuses on the structural side of data analytics—transforming messy, disconnected datasets into a high-performance relational model. Using **excel data modeling project.xlsx**, I built a robust architecture that allows for seamless cross-table analysis and complex metric calculation.
